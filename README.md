@@ -11,19 +11,19 @@ This project implements and benchmarks several common sorting algorithms. The pr
 
 ## Purpose
 
-The objective of this project is to:
+The objectives of this project are to:
 
-- Understand how various sorting algorithms work  
-- Evaluate their real-world performance  
-- Compare time complexity behavior with empirical results  
-- Identify strengths, weaknesses, and practical trade-offs  
+- Understand how different sorting algorithms work  
+- Evaluate real-world performance in Python  
+- Compare empirical results with theoretical time complexity  
+- Highlight strengths, weaknesses, and practical trade-offs
 
 ## Usage
 
-1. Build the project using your preferred C++ compiler or IDE  
-2. Run the program to execute the benchmarking tests  
-3. Review the output results  
-4. Refer to the analysis document for detailed comparisons  
+1. Install Python (3.x recommended)
+2. Run the benchmarking script:
+   ```bash
+   python main.py
 
 ## Deliverables
 
